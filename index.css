@@ -1,0 +1,25 @@
+main {
+    text-align: center;
+    width: 100%;
+    margin: 0px 0;
+
+    background-color: #2d6b2d;
+}
+
+form{
+    display: inline-block;
+    width: 300pc;
+}
+
+form label{
+    display: block;
+    font-size: 20px;
+}
+
+form{
+    display: block;
+    margin: 0 0 20px;
+    padding: 10px25px;
+    width: 100%;
+
+}
